@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab_Const_Layout</string>
+    <string name="bienvenida">Hola, por favor indica los síntomas que experimentes</string>
+</resources>
